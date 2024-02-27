@@ -1,0 +1,5 @@
+# Created at 2024-01-27T18:22:51.271
+Boot Manifest-JAR contains absolute paths in classpath 'E:\vue项目\springboot\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
